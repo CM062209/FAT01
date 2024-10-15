@@ -33,3 +33,10 @@ git branch "name"
 - Switch 
 git checkout [branch.name]
 git switch [branch.name]
+
+- merge branch to master
+git merge [branch.name]
+
+- delete branch
+git branch -d [branch.name]
+
